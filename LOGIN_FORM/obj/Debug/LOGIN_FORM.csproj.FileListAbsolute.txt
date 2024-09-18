@@ -1,0 +1,11 @@
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\bin\Debug\LOGIN_FORM.exe.config
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\bin\Debug\LOGIN_FORM.exe
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\bin\Debug\LOGIN_FORM.pdb
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\obj\Debug\LOGIN_FORM.csproj.AssemblyReference.cache
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\obj\Debug\LOGIN_FORM.Form1.resources
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\obj\Debug\LOGIN_FORM.Properties.Resources.resources
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\obj\Debug\LOGIN_FORM.csproj.GenerateResource.cache
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\obj\Debug\LOGIN_FORM.csproj.CoreCompileInputs.cache
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\obj\Debug\LOGIN_FORM.exe
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\obj\Debug\LOGIN_FORM.pdb
+D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\LOGIN_FORM\obj\Debug\LOGIN_FORM.Form2.resources
