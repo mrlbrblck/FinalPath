@@ -1,255 +1,151 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\",
+  "WorkspaceRootPath": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|d:\\programming\\uis\\schoolworks\\c\u002B\u002B_guiproject\\pre-lim_anazario\\prm\\form1\\frm_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frm_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|frm_studentinformation.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|frm_studentinformation.csproj|solutionrelative:frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frm_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|frm_studentinformation.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|frm_studentinformation.csproj|solutionrelative:frm_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|frm_studentinformation.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|frm_studentinformation.csproj|solutionrelative:frm_calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\Final na daw\\FinalPath\\Form1\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdownloads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frmdownloads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|d:\\programming\\final na daw\\finalpath\\form1\\frm_mdistudentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frm_mdistudentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_mdistudentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frm_mdistudentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\Final na daw\\FinalPath\\Form1\\mdiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:mdiform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\Final na daw\\FinalPath\\Form1\\mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\Final na daw\\FinalPath\\Form1\\mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:mdiform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|frm_studentinformation.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|frm_studentinformation.csproj|solutionrelative:frm_studentoinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmvideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FBBAB5DA-A544-4EAB-A909-D120CDCAAD53}|prelim_activities.csproj|solutionrelative:frmvideos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 231,
       "DocumentGroups": [
         {
-          "DockedWidth": 445,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 156,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frm_calculator.cs",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs",
-              "RelativeDocumentMoniker": "frm_calculator.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs",
-              "RelativeToolTip": "frm_calculator.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwC4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:51:14.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frm_calculator.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs",
-              "RelativeDocumentMoniker": "frm_calculator.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs [Design]",
-              "RelativeToolTip": "frm_calculator.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:51:14.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frm_studentoinformation.cs",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs",
-              "RelativeDocumentMoniker": "frm_studentoinformation.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs",
-              "RelativeToolTip": "frm_studentoinformation.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAD4v1AAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:46:20.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frm_studentoinformation.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs",
-              "RelativeDocumentMoniker": "frm_studentoinformation.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs [Design]",
-              "RelativeToolTip": "frm_studentoinformation.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:46:21.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MDIForm.cs",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\MDIForm.cs",
-              "RelativeDocumentMoniker": "MDIForm.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\MDIForm.cs",
-              "RelativeToolTip": "MDIForm.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T19:57:00.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "MDIForm.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\MDIForm.cs",
+              "DocumentMoniker": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\MDIForm.cs",
               "RelativeDocumentMoniker": "MDIForm.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\MDIForm.cs [Design]",
+              "ToolTip": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\MDIForm.cs [Design]",
               "RelativeToolTip": "MDIForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T19:55:43.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmdashboard.cs",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdashboard.cs",
-              "RelativeDocumentMoniker": "frmdashboard.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdashboard.cs",
-              "RelativeToolTip": "frmdashboard.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAtwIAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:26:45.225Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmdownloads.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdownloads.cs",
-              "RelativeDocumentMoniker": "frmdownloads.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdownloads.cs [Design]",
-              "RelativeToolTip": "frmdownloads.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:57:29.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmabout.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmabout.cs",
-              "RelativeDocumentMoniker": "frmabout.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmabout.cs [Design]",
-              "RelativeToolTip": "frmabout.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:56:28.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "frmvideos.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmvideos.cs",
-              "RelativeDocumentMoniker": "frmvideos.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmvideos.cs [Design]",
-              "RelativeToolTip": "frmvideos.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:54:43.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmdashboard.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdashboard.cs",
-              "RelativeDocumentMoniker": "frmdashboard.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frmdashboard.cs [Design]",
-              "RelativeToolTip": "frmdashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:41:45.701Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frm_calculator.cs",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs",
-              "RelativeDocumentMoniker": "frm_calculator.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs",
-              "RelativeToolTip": "frm_calculator.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:02:45.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frm_calculator.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs",
-              "RelativeDocumentMoniker": "frm_calculator.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_calculator.cs [Design]",
-              "RelativeToolTip": "frm_calculator.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:00:37.528Z"
+              "WhenOpened": "2024-09-19T00:36:37.263Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frm_studentoinformation.cs",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs",
-              "RelativeDocumentMoniker": "frm_studentoinformation.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs",
-              "RelativeToolTip": "frm_studentoinformation.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAD4v1AAAAAMAAAAAAAAAA==",
+              "Title": "MDIForm.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\MDIForm.Designer.cs",
+              "RelativeDocumentMoniker": "MDIForm.Designer.cs",
+              "ToolTip": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\MDIForm.Designer.cs",
+              "RelativeToolTip": "MDIForm.Designer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwHkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T15:17:51.739Z"
+              "WhenOpened": "2024-09-19T01:42:08.69Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frm_studentoinformation.cs [Design]",
-              "DocumentMoniker": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs",
+              "DocumentIndex": 1,
+              "Title": "frmdashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frmdashboard.cs",
+              "RelativeDocumentMoniker": "frmdashboard.cs",
+              "ToolTip": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frmdashboard.cs [Design]",
+              "RelativeToolTip": "frmdashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:00:04.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_mdistudentinfo.cs",
+              "DocumentMoniker": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_mdistudentinfo.cs",
+              "RelativeDocumentMoniker": "frm_mdistudentinfo.cs",
+              "ToolTip": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_mdistudentinfo.cs",
+              "RelativeToolTip": "frm_mdistudentinfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:54:37.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_mdistudentinfo.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_mdistudentinfo.cs",
+              "RelativeDocumentMoniker": "frm_mdistudentinfo.cs",
+              "ToolTip": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_mdistudentinfo.cs [Design]",
+              "RelativeToolTip": "frm_mdistudentinfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:29:21.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MDIForm.cs",
+              "DocumentMoniker": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\MDIForm.cs",
+              "RelativeDocumentMoniker": "MDIForm.cs",
+              "ToolTip": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\MDIForm.cs",
+              "RelativeToolTip": "MDIForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswF4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:04:25.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_studentoinformation.cs",
+              "DocumentMoniker": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_studentoinformation.cs",
               "RelativeDocumentMoniker": "frm_studentoinformation.cs",
-              "ToolTip": "D:\\Programming\\UIS\\SchoolWorks\\C\u002B\u002B_GUIproject\\PRE-LIM_ANAZARIO\\prm\\Form1\\frm_studentoinformation.cs [Design]",
+              "ToolTip": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_studentoinformation.cs",
+              "RelativeToolTip": "frm_studentoinformation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:30:34.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_studentoinformation.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_studentoinformation.cs",
+              "RelativeDocumentMoniker": "frm_studentoinformation.cs",
+              "ToolTip": "D:\\Programming\\Final na daw\\FinalPath\\Form1\\frm_studentoinformation.cs [Design]",
               "RelativeToolTip": "frm_studentoinformation.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T15:12:41.221Z"
+              "WhenOpened": "2024-09-19T00:26:24.968Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },
         {
-          "DockedWidth": 89,
+          "DockedWidth": 22,
           "SelectedChildIndex": -1,
           "Children": [
             {

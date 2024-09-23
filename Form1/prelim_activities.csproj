@@ -70,6 +70,12 @@
     <Compile Include="frmvideos.Designer.cs">
       <DependentUpon>frmvideos.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_mdistudentinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_mdistudentinfo.Designer.cs">
+      <DependentUpon>frm_mdistudentinfo.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_studentoinformation.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +110,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frm_calculator.resx">
       <DependentUpon>frm_calculator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_mdistudentinfo.resx">
+      <DependentUpon>frm_mdistudentinfo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_studentoinformation.resx">
       <DependentUpon>frm_studentoinformation.cs</DependentUpon>

@@ -14,3 +14,20 @@ D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\Form1\obj\Deb
 D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\Form1\obj\Debug\Form1.frmdownloads.resources
 D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\Form1\obj\Debug\Form1.frmvideos.resources
 D:\Programming\UIS\SchoolWorks\C++_GUIproject\PRE-LIM_ANAZARIO\prm\Form1\obj\Debug\Form1.MDIForm.resources
+D:\Programming\Final na daw\FinalPath\Form1\bin\Debug\Form1.exe.config
+D:\Programming\Final na daw\FinalPath\Form1\bin\Debug\Form1.exe
+D:\Programming\Final na daw\FinalPath\Form1\bin\Debug\Form1.pdb
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\prelim_activities.csproj.AssemblyReference.cache
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.frmdashboard.resources
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.frmabout.resources
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.frmdownloads.resources
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.frmvideos.resources
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.frm_calculator.resources
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.frm_studentoinformation.resources
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.MDIForm.resources
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.Properties.Resources.resources
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\prelim_activities.csproj.GenerateResource.cache
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\prelim_activities.csproj.CoreCompileInputs.cache
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.exe
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.pdb
+D:\Programming\Final na daw\FinalPath\Form1\obj\Debug\Form1.frm_mdistudentinfo.resources

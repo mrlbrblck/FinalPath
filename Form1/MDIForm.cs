@@ -76,5 +76,23 @@ namespace Form1
                 SendMessage(Handle, WM_NCLBUTTONDOWN, HT_CAPTION, 0);
             }
         }
+
+        private void MDIForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void studentInformtionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void itsm_info_Click(object sender, EventArgs e)
+        {
+            frm_mdistudentinfo frm_mdistudentinfo = new frm_mdistudentinfo();
+            frm_mdistudentinfo.Size = new Size(1015, 668);
+            frm_mdistudentinfo.MdiParent = this;
+            frm_mdistudentinfo.Show();
+        }
     }
 }
